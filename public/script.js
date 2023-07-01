@@ -1,0 +1,1 @@
+console.log("thi slog is from the script.js file")
